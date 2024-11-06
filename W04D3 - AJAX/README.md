@@ -1,5 +1,5 @@
 # W04 D3 | AJAX
-[Github Repository]() | [Vimeo Video Recording](https://vimeo.com/1027030046/7c7e75e277?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-October-14-2024/tree/main/W04D3%20-%20AJAX) | [Vimeo Video Recording](https://vimeo.com/1027030046/7c7e75e277?share=copy)
 
 ## Topics to cover
 
