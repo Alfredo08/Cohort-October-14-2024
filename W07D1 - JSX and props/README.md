@@ -1,5 +1,5 @@
 # D1 W07 | JSX and Props
-[Github Repository](https://github.com/Alfredo08/Cohort-October-14-2024/tree/main/W07D1%20-%20JSX%20and%20props) | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-October-14-2024/tree/main/W07D1%20-%20JSX%20and%20props) | [Vimeo Video Recording](https://vimeo.com/1033245819/b1f007a0b7?share=copy)
 
 ## Topics to cover
 - [x] What is React?
