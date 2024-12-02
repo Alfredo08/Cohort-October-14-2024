@@ -1,5 +1,5 @@
 # W08 D1 | React review
-[Github Repository]() | [Vimeo Video Recording](https://vimeo.com/1035352985/15c4d96444?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-October-14-2024/tree/main/W08D1%20-%20React%20review) | [Vimeo Video Recording](https://vimeo.com/1035352985/15c4d96444?share=copy)
 
 ## Topics to cover
 - [x] 1. Building a back-end app
